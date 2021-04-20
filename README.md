@@ -1,4 +1,4 @@
-# Mongoose Node.js Express TypeScript application for CastingPAX API Development.
+# Mongoose Node.js Express TypeScript application.
 
 ![image](https://user-images.githubusercontent.com/10678997/57565876-01281b00-73f8-11e9-8d86-911faa4a6c0f.png)
 
